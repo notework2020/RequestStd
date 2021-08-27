@@ -63,7 +63,7 @@ public class StydentOrderValidation
     }
 
     static void  sendMail(StudentOrder so){
-        System.out.println("Почта отправлена");
+        System.out.println("Почта отправлен");
     }
 
 }
